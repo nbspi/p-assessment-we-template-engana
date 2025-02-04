@@ -1,6 +1,24 @@
 # **Practical Assessment**
-## **Lou Geh Manufacturing Company**
-Lou Geh manufacturing company produces products. The following product informationis stored: product name, product ID and quantity on hand. These products are madeup of many components. Each component can be supplied by one or more suppliers. Thefollowing component information is kept: component ID, name, description, suppliers who supply them, and products in which they are used.
+## **The Lou Geh Supermarket**
+The Lou Geh supermarket is embracing the digital era by establishing a comprehensive
+e-commerce platform to enhance customer experience and streamline operations. This
+platform will seamlessly integrate supplier management, inventory tracking, customer
+profiling, and order processing, ensuring a seamless and efficient shopping experience
+for its valued customers.
+Each supplier has a unique code, the name of the company and their contact number, as
+well as the address of the company.
+They record all the items delivered by their suppliers. Each item has a barcode, a product
+description, quantity and the cost per unit item as indicated in the delivery receipt. They
+have real-time inventory updates to reflect product availability on the e-commerce
+platform.
+During sales transaction they record the product sold to every customer. They record the
+quantity and the unit price of every item, as indicated in the official receipt.
+For every customer they record their name, address and contact number. The e-
+commerce enables customers to browse the platform, add items to their carts, and
+proceed to checkout securely, provide multiple payment gateways to accommodate
+diverse customer preferences and ensure seamless transactions, and Offer various
+delivery options, including same-day delivery, scheduled delivery, and in-store pickup, to
+cater to customer convenience.
 
 - A supplier can exist without providing components.
 - A component does not have to be associated with a supplier.
@@ -20,8 +38,7 @@ Lou Geh manufacturing company produces products. The following product informati
    2. DFD
 4. Provide a ```README.md``` containing the setup guide.
 5. The application should be published in Github via forked repository and for final version of your prototype you will need to create a ```Pull request``` in Github .
-6. You will send the Github link to us thru our email devops@biotechfarms.com on or before ```September 18 2023```.
-7. Actual assessment interview will be conducted on ```September 19 2023 @ 2:00 PM```.
+6. You will send the Github link to us thru our email devops@biotechfarms.com on or before ```February 7 2025```.
 
     ### **Directory structure**
     ```
